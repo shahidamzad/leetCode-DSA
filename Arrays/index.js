@@ -1,20 +1,23 @@
-// Array --declearations
+// Array practices
+
+let discount = [5,10,15,20];
+
+console.log(discount.length);
+
+let retunValue = discount.pop();
+ 
+console.log(retunValue);
+console.log(discount);
+
+let disSheft = discount.shift()
+console.log(disSheft);
+console.log(discount);
+
+let disUnshift = discount.unshift(2)
+console.log(disUnshift);
+console.log(discount);
 
 
+ 
 
-
-
-let Discounts  = [5, 10 , 15 ,20] ;
-
-console.log(Discounts.length); // to find array of length 
-
-Discounts.push(25) //  Using this method for adding numbers in Array
-
-Discounts.pop(2) // Using this method for deleting or remove the last number in Array 
-
-Discounts.shift() // remove first element of the array 
-
-Discounts.unshift(30) // Add new element into the starting Of the Array 
-
-console.log(Discounts);
 
