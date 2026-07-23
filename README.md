@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shahidamzad/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
+| [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
