@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shahidamzad/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shahidamzad/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shahidamzad/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shahidamzad/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/shahidamzad/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shahidamzad/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shahidamzad/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
