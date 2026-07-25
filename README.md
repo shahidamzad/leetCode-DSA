@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/shahidamzad/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/shahidamzad/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shahidamzad/DSA/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/shahidamzad/DSA/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
 | ------- |
