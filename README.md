@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shahidamzad/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shahidamzad/DSA/tree/master/0118-pascals-triangle) |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shahidamzad/DSA/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shahidamzad/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shahidamzad/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shahidamzad/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shahidamzad/DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
@@ -120,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
