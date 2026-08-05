@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shahidamzad/DSA/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/shahidamzad/DSA/tree/master/0704-binary-search) |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shahidamzad/DSA/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0704-binary-search](https://github.com/shahidamzad/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
