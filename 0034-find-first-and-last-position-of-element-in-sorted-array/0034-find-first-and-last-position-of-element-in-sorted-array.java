@@ -1,52 +1,45 @@
 class Solution {
     public int[] searchRange(int[] arr, int target) {
-        int[] ans = {-1,-1};
         int n = arr.length;
-        int low = 0 ;
-        int high = n-1 ;
-        boolean flag = false;
+        int[] ans = new int[2];
+
+        int low = 0 , high = n-1 ; 
+        int fp = -1 ;
+
         while(low <= high){
             int mid = low + (high - low)/2;
-            if(arr[mid] == target){
-                flag = true ;
+            if(arr[mid] == target) {
+                if(mid > 0 && arr[mid] == arr[mid - 1] ) high = mid - 1;
+                else{
+                fp = mid;
                 break;
+             }
+
             }
-            else if(arr[mid] > target){
-                high = mid - 1;
-            }
-            else if(arr[mid] < target){
-                low = mid + 1;
-            }  
+            else if(arr[mid] > target )  high = mid - 1;
+            else if(arr[mid] < target) low = mid + 1 ; 
 
         }
-        if(flag == false) return ans;
-        // lower bound
-        low = 0;
-        high = n - 1;
-      int   lowerBound = n ;
-        while(low <= high){
-            int mid = low + (high - low)/2;
-            if(arr[mid] >= target){
-                lowerBound = mid;
-                high = mid - 1 ;
-            }
-            else  low = mid + 1 ;
-        }
-        ans[0] = lowerBound;
 
-        // upper Bound
+        int lp = -1 ;
         low = 0;
-        high = n - 1;
-        int upperBound = n ;
+        high = n - 1 ;
         while(low <= high){
             int mid = low + (high - low)/2;
-            if(arr[mid] > target){
-                upperBound = mid;
-                high = mid - 1;
+            if(arr[mid] == target) {
+                if(mid + 1< n && arr[mid] == arr[mid + 1] ) low = mid + 1;
+                else{
+                lp = mid;
+                break;
+             }
+
             }
-            else low = mid + 1 ;
+            else if(arr[mid] > target )  high = mid - 1;
+            else if(arr[mid] < target) low = mid + 1 ; 
+
         }
-        ans[1] = upperBound - 1;
-        return ans;
+       ans[0] = fp ;
+       ans[1] = lp;
+       return ans;
     }
 }
