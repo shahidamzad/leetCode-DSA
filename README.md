@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/shahidamzad/DSA/tree/master/0283-move-zeroes) |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shahidamzad/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahidamzad/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shahidamzad/DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/shahidamzad/DSA/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shahidamzad/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shahidamzad/DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shahidamzad/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahidamzad/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -150,4 +154,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shahidamzad/DSA/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
