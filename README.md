@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahidamzad/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahidamzad/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahidamzad/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahidamzad/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahidamzad/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Divide and Conquer
 |  |
 | ------- |
