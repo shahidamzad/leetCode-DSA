@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/shahidamzad/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/shahidamzad/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahidamzad/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shahidamzad/DSA/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/shahidamzad/DSA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shahidamzad/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/shahidamzad/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/shahidamzad/DSA/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/shahidamzad/DSA/tree/master/0493-reverse-pairs) |
 | [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shahidamzad/DSA/tree/master/0704-binary-search) |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahidamzad/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/shahidamzad/DSA/tree/master/0658-find-k-closest-elements) |
 ## Matrix
 |  |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shahidamzad/DSA/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
 ## Counting
 |  |
