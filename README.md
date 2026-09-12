@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/shahidamzad/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/shahidamzad/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/shahidamzad/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shahidamzad/DSA/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/shahidamzad/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/shahidamzad/DSA/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/shahidamzad/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shahidamzad/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shahidamzad/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/shahidamzad/DSA/tree/master/0143-reorder-list) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shahidamzad/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/shahidamzad/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shahidamzad/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shahidamzad/DSA/tree/master/0215-kth-largest-element-in-an-array) |
