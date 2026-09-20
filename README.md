@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahidamzad/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahidamzad/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/shahidamzad/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Two Pointers
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shahidamzad/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/shahidamzad/DSA/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidamzad/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shahidamzad/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
