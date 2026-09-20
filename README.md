@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shahidamzad/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/shahidamzad/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shahidamzad/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shahidamzad/DSA/tree/master/0394-decode-string) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shahidamzad/DSA/tree/master/0038-count-and-say) |
 | [0205-isomorphic-strings](https://github.com/shahidamzad/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/shahidamzad/DSA/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/shahidamzad/DSA/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidamzad/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shahidamzad/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shahidamzad/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shahidamzad/DSA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/shahidamzad/DSA/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/shahidamzad/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidamzad/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
