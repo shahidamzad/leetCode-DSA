@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/shahidamzad/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/shahidamzad/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/shahidamzad/DSA/tree/master/0946-validate-stack-sequences) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shahidamzad/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shahidamzad/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/shahidamzad/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/shahidamzad/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
+| [0946-validate-stack-sequences](https://github.com/shahidamzad/DSA/tree/master/0946-validate-stack-sequences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/shahidamzad/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/shahidamzad/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shahidamzad/DSA/tree/master/0234-palindrome-linked-list) |
+| [0946-validate-stack-sequences](https://github.com/shahidamzad/DSA/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidamzad/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Depth-First Search
