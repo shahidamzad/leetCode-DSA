@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shahidamzad/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shahidamzad/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shahidamzad/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shahidamzad/DSA/tree/master/0027-remove-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shahidamzad/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shahidamzad/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shahidamzad/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shahidamzad/DSA/tree/master/0022-generate-parentheses) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shahidamzad/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/shahidamzad/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shahidamzad/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shahidamzad/DSA/tree/master/0118-pascals-triangle) |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/shahidamzad/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/shahidamzad/DSA/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/shahidamzad/DSA/tree/master/0226-invert-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shahidamzad/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
