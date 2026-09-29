@@ -12,6 +12,7 @@ class Solution {
     private void nthLevel(TreeNode root, int level, int lvl, List<Integer> arr) {
 
         if (root == null) return;
+        if(level > lvl) return;
         if (level == lvl) {
             arr.add(root.val);
         }
