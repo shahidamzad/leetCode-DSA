@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/shahidamzad/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/shahidamzad/DSA/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shahidamzad/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/shahidamzad/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/shahidamzad/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/shahidamzad/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/shahidamzad/DSA/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/shahidamzad/DSA/tree/master/0946-validate-stack-sequences) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/shahidamzad/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
