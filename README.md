@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shahidamzad/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/shahidamzad/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3871-count-commas-in-range-ii](https://github.com/shahidamzad/DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Array
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/shahidamzad/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shahidamzad/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/shahidamzad/DSA/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/shahidamzad/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shahidamzad/DSA/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/shahidamzad/DSA/tree/master/0409-longest-palindrome) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shahidamzad/DSA/tree/master/0169-majority-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/shahidamzad/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
